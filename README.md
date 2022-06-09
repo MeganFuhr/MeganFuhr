@@ -34,6 +34,6 @@ SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/s
 <br>
 
   <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=meganfuhr&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meganfuhr&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact" />
     </div>

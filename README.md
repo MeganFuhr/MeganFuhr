@@ -31,9 +31,7 @@ SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/s
 - 🌱 I’m currently looking to continue to grow more in Unity and JavaScript.
 - 👯 I’m looking to collaborate on nearly any open source project in which I can help.
 
-<br>
 
-  <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meganfuhr&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact" />
-    </div>
+[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meganfuhr&theme=radical&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

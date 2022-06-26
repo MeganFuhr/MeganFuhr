@@ -21,7 +21,7 @@ If you would like to reach me, best to head over to LinkedIn.
 
   ## Projects
 - 🔭 I’m currently working on [ThePurplePuffin](https://ThePurplePuffin.netlify.app) :bird:. Using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>, Contentful with GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18px"/>
-, and OpenLayers, I have built a place I can keep track of all the birds I spot living in New England.
+, and OpenLayers, I built a place where I can keep track of all the birds I spot living in New England.
 - :octocat: My previous projects can be see live, too!
   - :moneybag: [AcquireLatinum](https://acquirelatinum.netlify.app/) - How well do you know the Rules of Acquisition? Inspired by Star Trek and [Wordle](https://www.nytimes.com/games/wordle/index.html) and built with React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>.
   - :man: [Virtual-J](https://virtual-j.herokuapp.com/) - J's a great friend but sometimes we all need help. My friends and I can help J eat :spaghetti:, stay active :bicyclist:, relax :tada:, and sleep :sleeping: - all when he needs it the most! This was built using node.s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18px" />, Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18px" />

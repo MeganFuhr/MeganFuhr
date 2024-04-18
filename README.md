@@ -20,18 +20,19 @@ If you would like to reach me, best to head over to LinkedIn.
 
 
   ## Projects
-- 🔭 I’m currently working on [ThePurplePuffin](https://ThePurplePuffin.netlify.app) :bird:. Using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>, Contentful with GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18px"/>
+- 🔭 I try to keep [ThePurplePuffin](https://thepurplepuffin.vercel.app/) :bird: up to date with birds I spy. Using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>, Contentful with GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18px"/>
 , and OpenLayers, I built a place where I can keep track of all the birds I spot living in New England.
-- :octocat: My previous projects can be see live, too!
-  - :moneybag: [AcquireLatinum](https://acquirelatinum.netlify.app/) - How well do you know the Rules of Acquisition? Inspired by Star Trek and [Wordle](https://www.nytimes.com/games/wordle/index.html) and built with React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>.
-  - :man: [Virtual-J](https://virtual-j.herokuapp.com/) - J's a great friend but sometimes we all need help. My friends and I can help J eat :spaghetti:, stay active :bicyclist:, relax :tada:, and sleep :sleeping: - all when he needs it the most! This was built using node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18px" />, Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18px" />
-SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="18px"/> and EJS.
+- :octocat: Live Projects
+  - :moneybag: [AcquireLatinum](https://rules-of-acquisition-quiz.vercel.app/) - How well do you know the Rules of Acquisition? Inspired by Star Trek 🖖 and [Wordle](https://www.nytimes.com/games/wordle/index.html) and built with React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>.
+
+- ✖️: No longer live
+  - 🥝 [NZBlog](https://github.com/MeganFuhr/nzblog) - I traveled to New Zealand and wanted a way to share some highlights and picture while there. This project used React, Contentful, Axios, OpenLayers, react-image-gallery.
+  - :man: [Virtual-J](https://github.com/MeganFuhr/Virtual-Friend) - J's a great friend but sometimes we all need help. My friends and I can help J eat :spaghetti:, stay active :bicyclist:, relax :tada:, and sleep :sleeping: - all when he needs it the most! This was built using node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18px" />, Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18px" />
+SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="18px"/>, Mongo, and EJS.
 
   - :satellite: [J](https://github.com/MeganFuhr/j-py) is also a Discord bot my friends and I enjoy. I have written it in both Python and JavaScript with MongoDB as my database.
-- 🌱 I’m currently looking to continue to grow more in Unity and JavaScript.
+- 🌱 I’m currently looking to continue to grow more in JavaScript and React.
 - 👯 I’m looking to collaborate on nearly any open source project in which I can help.
 
 
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meganfuhr&theme=radical&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

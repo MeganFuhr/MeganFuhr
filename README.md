@@ -34,8 +34,7 @@ Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/20
 SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="18px"/>, Mongo, and EJS.
 
   - :satellite: [J](https://github.com/MeganFuhr/j-py) is also a Discord bot my friends and I enjoy. I have written it in both Python and JavaScript with MongoDB as my database.
-- 🌱 I’m currently looking to continue to grow more in JavaScript and React.
-- 👯 I’m looking to collaborate on nearly any open source project in which I can help.
+- 🌱 I’m looking to collaborate on nearly any open source project in which I can help.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

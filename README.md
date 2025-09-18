@@ -35,7 +35,7 @@ If you would like to reach me, best to head over to LinkedIn.
  - AzureOpenAI
  - MCP
 ## Engagements
-Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px" /> [mydigifarm.com](https://mydigifarm.com/), an open source platform built on Raspberry Pi and Arduino controllers. I'm buidling out the local site using Django Rest Framework and Vue.js. Follow the link to learn more about what we do.
+Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px" /> [mydigifarm.com](https://mydigifarm.com/), an open source platform built on Raspberry Pi and Arduino controllers. I build the local site using FastAPI and React. Follow the link to learn more about what we do.
 
   ## Projects
 - 🔭 I try to keep [ThePurplePuffin](https://thepurplepuffin.vercel.app/) :bird: up to date with birds I spy. Using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>, Contentful with GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18px"/>

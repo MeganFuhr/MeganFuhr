@@ -1,6 +1,6 @@
 ## Beep Boop Boop (Hi there 👋)
 
-I am an EUC and virtualization specialist currently learning all things Dev. My background is Windows and systems/infrastructure, so PowerShell was my first language. I focus on automation in my daily work. I love the :deciduous_tree: outdoors :evergreen_tree: :mushroom: and :video_game: video games :computer:.
+I am an EUC and virtualization specialist but been doing web dev for over 5 years. My background is Windows and systems/infrastructure, so PowerShell was my first language. I focus on automation in my daily work. I love the :deciduous_tree: outdoors, :video_game: video games, and 📚 reading.
 
 ## Contact
 If you would like to reach me, best to head over to LinkedIn.
@@ -16,9 +16,20 @@ If you would like to reach me, best to head over to LinkedIn.
   - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="20px"/>
   - HTML/CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" />
   - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="20px"/>
-          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="20px"/>            
   - C#/Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20px" />
+## Frameworks and Libraries
+ - React <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="20px" />
+ - Vue <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20px" />
+ - Next <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="20px" />
+ - MaterialUI <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" width="20px" />
+ - Vuetify <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vuetify_js.png" width="20px" />
+ - Vite <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="20px" />
+ - Django <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="20px" />
+ - FastAPI <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="20px" />
+## Databases ##
+ - mongoDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="20px" />
+ - MariaDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="20px" />
 ## Engagements
 Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px" /> [mydigifarm.com](https://mydigifarm.com/), an open source platform built on Raspberry Pi and Arduino controllers. I'm buidling out the local site using Django Rest Framework and Vue.js. Follow the link to learn more about what we do.
 

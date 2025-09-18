@@ -30,6 +30,10 @@ If you would like to reach me, best to head over to LinkedIn.
 ## Databases ##
  - mongoDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="20px" />
  - MariaDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="20px" />
+## et al ##
+ - OpenAI
+ - AzureOpenAI
+ - MCP
 ## Engagements
 Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px" /> [mydigifarm.com](https://mydigifarm.com/), an open source platform built on Raspberry Pi and Arduino controllers. I'm buidling out the local site using Django Rest Framework and Vue.js. Follow the link to learn more about what we do.
 

@@ -1,55 +1,45 @@
-## Beep Boop Boop (Hi there 👋)
+## About Me
+Versatile staff engineer with 14+ years in enterprise systems engineering and infrastructure automation, plus 5+ years architecting modern full-stack applications. Proven track record building production web platforms (React, FastAPI, cloud technologies) while maintaining deep expertise in enterprise systems, virtualization, server management, and DevOps practices.
 
-I am an EUC and virtualization specialist but been doing web dev for over 5 years. My background is Windows and systems/infrastructure, so PowerShell was my first language. I focus on automation in my daily work. I love the :deciduous_tree: outdoors, :video_game: video games, and 📚 reading.
+Excel across technical domains from enterprise infrastructure and automation to modern web development and AI integration. Lead technical initiatives, mentor developers, and deliver robust solutions by bridging the gap between systems engineering and application development.
 
-## Contact
-If you would like to reach me, best to head over to LinkedIn.
-<div id="badges">
-  <a href="https://www.linkedin.com/in/meganfuhr">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a/>
-</div>
-  
-## Languages
- I'm always learning!
-  - PowerShell <img src="https://raw.githubusercontent.com/MeganFuhr/BingaGifs/main/powershell.svg" width="20px"/>
-  - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="20px"/>
-  - HTML/CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" />
-  - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="20px"/>            
-  - C#/Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20px" />
-## Frameworks and Libraries
- - React <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="20px" />
- - Vue <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20px" />
- - Next <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="20px" />
- - MaterialUI <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" width="20px" />
- - Vuetify <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vuetify_js.png" width="20px" />
- - Vite <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="20px" />
- - Django <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="20px" />
- - FastAPI <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="20px" />
-## Databases ##
- - mongoDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="20px" />
- - MariaDB <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="20px" />
-## et al ##
- - OpenAI
- - AzureOpenAI
- - MCP
-## Engagements
-Currently contirbuting to <img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px" /> [mydigifarm.com](https://mydigifarm.com/), an open source platform built on Raspberry Pi and Arduino controllers. I build the local site using FastAPI and React. Follow the link to learn more about what we do.
+When I'm not coding, you'll find me exploring the outdoors, gaming, or immersed in a good book.
 
-  ## Projects
-- 🔭 I try to keep [ThePurplePuffin](https://thepurplepuffin.vercel.app/) :bird: up to date with birds I spy. Using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>, Contentful with GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18px"/>
-, and OpenLayers, I built a place where I can keep track of all the birds I spot living in New England.
-- :octocat: Live Projects
-  - :moneybag: [AcquireLatinum](https://rules-of-acquisition-quiz.vercel.app/) - How well do you know the Rules of Acquisition? Inspired by Star Trek 🖖 and [Wordle](https://www.nytimes.com/games/wordle/index.html) and built with React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18px"/>.
+<div id="badges"> <a href="https://www.linkedin.com/in/meganfuhr"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
 
-- ✖️: No longer live
-  - 🥝 [NZBlog](https://github.com/MeganFuhr/nzblog) - I traveled to New Zealand and wanted a way to share some highlights and picture while there. This project used React, Contentful, Axios, OpenLayers, react-image-gallery.
-  - :man: [Virtual-J](https://github.com/MeganFuhr/Virtual-Friend) - J's a great friend but sometimes we all need help. My friends and I can help J eat :spaghetti:, stay active :bicyclist:, relax :tada:, and sleep :sleeping: - all when he needs it the most! This was built using node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18px" />, Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18px" />
-SocketIO <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="18px"/>, Mongo, and EJS.
+## Technical Stack
+### Languages & Core Technologies
+- <img src="https://raw.githubusercontent.com/MeganFuhr/BingaGifs/main/powershell.svg" width="20px"/> PowerShell - Enterprise automation and scripting
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="20px"/> JavaScript/TypeScript  - Modern web development with React, Vue, and Next.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" width="20px"/> Python - Backend development and API design
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20px"/> C#/Unity - Game development and interactive experiences
 
-  - :satellite: [J](https://github.com/MeganFuhr/j-py) is also a Discord bot my friends and I enjoy. I have written it in both Python and JavaScript with MongoDB as my database.
-- 🌱 I’m looking to collaborate on nearly any open source project in which I can help.
+### Frameworks & Libraries
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="20px"/> React
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20px"/> Vue
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="20px"/> Next.js
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" width="20px"/> MaterialUI
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vuetify_js.png" width="20px"/> Vuetify
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="20px"/> Vite
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="20px"/> Django
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="20px"/> FastAPI
+- <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="20px"/> ApexCharts
 
+### Data & Infrastructure
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="20px"/> MongoDB
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="20px"/> MariaDB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganfuhr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### AI & Integration
+- OpenAI API
+- Azure OpenAI
+- Model Context Protocol (MCP)
+
+## Current Work
+### Open Source Contributor 
+<img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px"/><strong> MyDigiFarm</strong>
+
+Contributing to an open-source agricultural IoT platform built on Raspberry Pi and Arduino controllers. Developing the local web interface using FastAPI backend and React frontend to enable real-time monitoring and control of farm operations.
+
+> [!IMPORTANT]
+> I'm actively seeking collaboration opportunities on open-source projects where I can contribute my expertise in full-stack development, automation, and systems integration.
+

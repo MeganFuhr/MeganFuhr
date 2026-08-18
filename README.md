@@ -36,9 +36,9 @@ When I'm not coding, you'll find me exploring the outdoors, gaming, or immersed 
 
 ## Current Work
 ### Open Source Contributor 
-<img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px"/><strong> MyDigiFarm</strong>
+<img src="https://mydigifarm.com/wp-content/uploads/2023/09/cropped-logo_for_header-1-90x90.png" width="20px"/><strong> mydigifarm</strong>
 
-Contributing to an open-source agricultural IoT platform built on Raspberry Pi and Arduino controllers. Developing the local web interface using FastAPI backend and React frontend to enable real-time monitoring and control of farm operations.
+Contributing to an open-source agricultural IoT platform built on Raspberry Pi and Arduino/Esp controllers. Developing the local web interface using FastAPI, React, Vault, MariaDb to enable real-time monitoring and control of farm operations.
 
 > [!IMPORTANT]
 > I'm actively seeking collaboration opportunities on open-source projects where I can contribute my expertise in full-stack development, automation, and systems integration.

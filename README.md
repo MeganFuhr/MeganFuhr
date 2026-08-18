@@ -1,5 +1,5 @@
 ## About Me
-Versatile staff engineer with 14+ years in enterprise systems engineering and infrastructure automation, plus 5+ years architecting modern full-stack applications. Proven track record building production web platforms (React, FastAPI, cloud technologies) while maintaining deep expertise in enterprise systems, virtualization, server management, and DevOps practices.
+Versatile engineer with 15+ years in enterprise systems engineering and infrastructure automation, plus 5+ years architecting modern full-stack applications. Proven track record building production web platforms while maintaining deep expertise in enterprise systems, virtualization, server management, and DevOps practices.
 
 Excel across technical domains from enterprise infrastructure and automation to modern web development and AI integration. Lead technical initiatives, mentor developers, and deliver robust solutions by bridging the gap between systems engineering and application development.
 

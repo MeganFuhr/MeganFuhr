@@ -23,7 +23,7 @@ When I'm not coding, you'll find me exploring the outdoors, gaming, or immersed 
 - <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="20px"/> Vite
 - <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="20px"/> Django
 - <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="20px"/> FastAPI
-- <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="20px"/> ApexCharts
+- ApexCharts
 
 ### Data & Infrastructure
 - <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="20px"/> MongoDB
